@@ -14,7 +14,7 @@ ama bunu bir müzik kanalında yapmak istediğinizde böyle bir şeyin olmadığ
 
 Yukardaki gibi bir müzik kanalının<br><br>
 <img src="https://i.vgy.me/g9kuEa.png" alt="Videolar"><br>
-videolar kısmına gelip `ctrl + shift + I` veya `F12` ile konsolu açın ve kodu yapıştırın.<br><br>
+videolar kısmına gelip `ctrl + shift + I` veya `F12` ile konsolu açın ve <a href="https://github.com/TavukDoner7528/youtube-get-videos/blob/index/paste-to-console.js">kodu</a> yapıştırın.<br><br>
 <h3>Fonksiyonlar</h3> 
 
 **En fazla izlenen video:** ```_this.mostViewed()```<br>
