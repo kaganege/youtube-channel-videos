@@ -1,4 +1,4 @@
-<h1 align="center">Youtube Kanal Videoları Getirici</h1>
+<h1 align="center">Youtube Kanal Videoları Fonksiyonu</h1>
 <h3>Bu ne işinize yarar?</h3>
 
 Normalde <a href="https://www.youtube.com/">Youtube</a>'da Sıralama Ölçütü var.<br><br>
